@@ -1,0 +1,25 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "Beispielanwendung \"My Songbook\"\r ===============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.10.1"
+  },
+  "devDependencies": {
+    "shelljs": "^0.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chridue95/webprog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chridue95/webprog/issues"
+  },
+  "homepage": "https://github.com/Chridue95/webprog#readme"
+}
